@@ -61,8 +61,8 @@ In Eclipse: Right Click Project → Build Path → Configure Build Path → Add 
 
 ---
 ## OUTPUT 
-![Output](images/img1.png)
-![Output](images/img2.png)
+![Output](Images/img1.png)
+![Output](Images/img2.png)
 
 ---
 
