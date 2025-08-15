@@ -77,8 +77,8 @@ In Eclipse: Right Click Project → Build Path → Configure Build Path → Add 
     Run the program → Select options from the menu.
 
 ## OUTPUT 
-!(images/img1.png)
-!(images/img2.png)
+(images/img1.png)
+(images/img2.png)
 
 
     
