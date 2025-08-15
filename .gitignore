@@ -1,0 +1,24 @@
+# Ignore compiled class files
+*.class
+
+# Ignore Eclipse specific files
+.classpath
+.project
+.settings/
+
+# Ignore build output directories
+bin/
+target/
+
+# Ignore logs
+*.log
+
+# Ignore database config (if you store passwords locally)
+dbconfig.properties
+
+
+# Ignore JAR/WAR/EAR files if built locally
+*.jar
+*.war
+*.ear
+
