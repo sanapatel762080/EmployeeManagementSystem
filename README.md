@@ -32,23 +32,6 @@ This project demonstrates **JDBC connectivity**, **SQL queries**, **input valida
 - **Exception Handling** for invalid input
 
 ---
-
-
----
-
-## Database Setup
-Run the following SQL commands in MySQL:
-```sql
-CREATE DATABASE EmployeeDB;
-USE EmployeeDB;
-
-CREATE TABLE employees (
-    id INT PRIMARY KEY AUTO_INCREMENT,
-    name VARCHAR(100),
-    department VARCHAR(50),
-    salary DOUBLE
-);
-
 ## How to Run the Project
 
 1.Install Requirements
@@ -76,9 +59,28 @@ In Eclipse: Right Click Project → Build Path → Configure Build Path → Add 
     Open Main.java
     Run the program → Select options from the menu.
 
+---
 ## OUTPUT 
 ![Output](images/img1.png)
 ![Output](images/img2.png)
+
+---
+
+## Database Setup
+Run the following SQL commands in MySQL:
+```sql
+CREATE DATABASE EmployeeDB;
+USE EmployeeDB;
+
+CREATE TABLE employees (
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    name VARCHAR(100),
+    department VARCHAR(50),
+    salary DOUBLE
+);
+
+
+
 
 
 
